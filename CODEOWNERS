@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @elapage
+/src/backend/database.py      @elapage
+/src/backend/routers/auth.py  @elapage
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @elapage
